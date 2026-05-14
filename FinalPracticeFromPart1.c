@@ -1,5 +1,6 @@
 /*
-How did I do all these? For all these programs,
+How did I do all these? 
+For all these programs,
 I asked an AI to give me these practices. 
 No code, only instructions for me to create my own programs. 
 After each program, I passed it to the AI, and it gave me feedback. 
