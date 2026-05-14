@@ -1,3 +1,16 @@
+/*
+How did I do all these? For all these programs,
+I asked an AI to give me these practices. 
+No code, only instructions for me to create my own programs. 
+After each program, I passed it to the AI, and it gave me feedback. 
+In all the tries, I got mostly or all the program right. 
+I did all of the logic, but I still have mistakes when typing or in syntax. 
+Actually, this last program, the wi-fi was too slow that I could not even talk anymore to the AI. I
+n my first try, I got 12 mistakes and it did not compile. I was going to give up but, 
+I continued, and experimented until one mistake disappeared, then another, and so on. 
+After an hour, the program was ready, 
+I broke my head many times but, it works now and I did it all by myself.
+*/
 #include <stdio.h>
 #include <string.h>
 struct proyecto
